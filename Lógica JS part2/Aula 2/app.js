@@ -16,3 +16,14 @@ function verificarChute() {
 function gerarNumeroAleatorio() {
    return parseInt(Math.random() * 10 + 1);
 }
+
+// Nesta aula:
+// Criamos uma função em JavaScript para gerar um número aleatório utilizando o método Math.random();
+
+// Utilizamos a palavra-chave "return" dentro da função para retornar o valor do número aleatório gerado;
+
+// Criamos outra função chamada exibirTextoNaTela que possui dois parâmetros;
+
+// Compreendemos a diferença entre funções com retorno e funções sem retorno e aprendemos como chamar e invocar a função para exibir uma mensagem inicial na tela;
+
+// Vimos como os parâmetros e retornos são importantes para a comunicação entre funções e o restante do programa.
